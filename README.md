@@ -1,5 +1,4 @@
-[[Uploading gif29.3 МБ.url…]()[InternetShortcut]
-URL=https://vk.com/doc124761697_673599020?hash=yzKwvSjIhWVZIfZuknTc5az7FCUjZbpCms742hHzYJk&dl=HWiiarpbIvszzZehZqHf70MY3pQW94vgnex2jze9DWP](https://vk.com/doc124761697_673599020?hash=yzKwvSjIhWVZIfZuknTc5az7FCUjZbpCms742hHzYJk&dl=HWiiarpbIvszzZehZqHf70MY3pQW94vgnex2jze9DWP)
+
 
 Привет, меня зовут Александр
 ==========================
