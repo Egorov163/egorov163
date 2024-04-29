@@ -4,10 +4,6 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-<div align="center">
-  <img height="300" width="600" src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://vk.com/doc365595629_515799080?hash=5qccqNEBQlrT5zdoNQPYnzrEnbIE0NNnlpZHC1M9NDg&dl=gb8ZZZsNT3Z2RT4CUQ4ZZbxODOOZud9PChVPSpX7gzL)"  />
-</div>
-
 ###
 
 <h1 align="center">Привет👋 Меня зовут Александр!</h1>
