@@ -35,4 +35,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egorov163&locale=ru&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={egorov163}&theme=dracula&locale=ru"  />
+</div>
+
 ###
